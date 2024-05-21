@@ -1,0 +1,21 @@
+.major-mono-display-regular {
+  font-family: "Major Mono Display", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+  font-family:"Major Mono Display", monospace;
+  font-weight: 400;
+  
+}
+
+body {
+  font-family: "Major Mono Display", monospace;
+  background-color: #c7d5d8;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
